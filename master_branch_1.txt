@@ -10,3 +10,6 @@ i will be rich
 
 
 i will be all right
+
+
+I added this from github remote repository
