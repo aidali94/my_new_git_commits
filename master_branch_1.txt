@@ -15,4 +15,9 @@ i will be all right
 I added this from github remote repository
 
 
+<<<<<<< HEAD
 i want to create fix
+=======
+
+i want to create problem
+>>>>>>> fa6e3e1cbc5aad44948825cdd93e57799bd0b7d8
